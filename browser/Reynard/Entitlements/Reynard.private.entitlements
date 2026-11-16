@@ -40,5 +40,9 @@
 	<!-- I'm not sure if this will work, but anyways -->
 	<key>com.apple.developer.web-browser</key>
 	<true/>
+	<key>com.apple.developer.applesignin</key>
+	<array>
+        <string>Default</string>
+    </array>
 </dict>
 </plist>
